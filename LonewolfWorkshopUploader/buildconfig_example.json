@@ -1,0 +1,13 @@
+{
+	"Title": "WorkshopUploadTest",
+	"Tags": [
+		"HomeworldRM",
+		"HWRM"
+	],
+	"WorkshopID": 0,
+	"DescriptionPath": "D:\\source\\HWR\\LonewolfWorkshopUploader\\LonewolfWorkshopUploader\\buildconfig_desc_example.txt",
+	"ContentFolder": "D:\\source\\HWR\\LonewolfWorkshopUploader\\LonewolfWorkshopUploader\\Properties\\",
+	"PreviewFile": "D:\\source\\HWR\\LonewolfWorkshopUploader\\LonewolfWorkshopUploader\\exmaple_preview.jpg",
+	"Visibility": 2,
+	"ChangelogPath": "D:\\source\\HWR\\LonewolfWorkshopUploader\\LonewolfWorkshopUploader\\buildconfig_changelog_example.txt"
+}
